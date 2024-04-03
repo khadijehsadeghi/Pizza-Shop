@@ -17,7 +17,8 @@ Welcome, this is a pizza menu & ordering with React.js , Redux toolkit , React r
 * Tailwind css
 
 # View Demo
-[https://pizza-shop.liara.run]
+
+https://pizza-shop.liara.run
 
 
 ## How to run? (Type these commands in the terminal)
