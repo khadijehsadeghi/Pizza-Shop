@@ -11,6 +11,10 @@ https://github.com/khadijehsadeghi/Pizza-Shop/assets/140825672/7e143d78-9712-48d
 Welcome, this is a pizza menu & ordering with React.js , Redux toolkit , React router data loading , Thunks , Tailwind css.
 
 
+# View Demo
+
+https://pizza-shop.liara.run
+
 # Features
 
 * React.js
@@ -19,9 +23,6 @@ Welcome, this is a pizza menu & ordering with React.js , Redux toolkit , React r
 * Thunks
 * Tailwind css
 
-# View Demo
-
-https://pizza-shop.liara.run
 
 
 ## How to run? (Type these commands in the terminal)
