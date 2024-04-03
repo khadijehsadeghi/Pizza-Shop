@@ -1,7 +1,10 @@
 
 # Pizza Shop
 
-https://github.com/khadijehsadeghi/Pizza-Shop/assets/140825672/f4c51893-0735-408a-98ad-ffea5351662c
+
+
+https://github.com/khadijehsadeghi/Pizza-Shop/assets/140825672/7e143d78-9712-48d7-bd61-bcb0d89a2e10
+
 
 
 
