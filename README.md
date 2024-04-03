@@ -1,5 +1,9 @@
-https://github.com/khadijehsadeghi/metanext/assets/140825672/dc498cf3-516e-4622-9b6a-631a6e4ed4be
+
 # Pizza Shop
+
+https://github.com/khadijehsadeghi/Pizza-Shop/assets/140825672/f4c51893-0735-408a-98ad-ffea5351662c
+
+
 
 Welcome, this is a pizza menu & ordering with React.js , Redux toolkit , React router data loading , Thunks , Tailwind css.
 
@@ -11,6 +15,9 @@ Welcome, this is a pizza menu & ordering with React.js , Redux toolkit , React r
 * React Router Data Loading v6
 * Thunks
 * Tailwind css
+
+# View Demo
+[https://pizza-shop.liara.run]
 
 
 ## How to run? (Type these commands in the terminal)
